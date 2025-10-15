@@ -1,0 +1,15 @@
+running develop
+running egg_info
+writing turtle_path_planner.egg-info/PKG-INFO
+writing dependency_links to turtle_path_planner.egg-info/dependency_links.txt
+writing entry points to turtle_path_planner.egg-info/entry_points.txt
+writing requirements to turtle_path_planner.egg-info/requires.txt
+writing top-level names to turtle_path_planner.egg-info/top_level.txt
+reading manifest file 'turtle_path_planner.egg-info/SOURCES.txt'
+writing manifest file 'turtle_path_planner.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/sam/turtle_path_planner_ws/install/turtle_path_planner/lib/python3.10/site-packages/turtle-path-planner.egg-link (link to .)
+Installing astar_planner script to /home/sam/turtle_path_planner_ws/install/turtle_path_planner/lib/turtle_path_planner
+
+Installed /home/sam/turtle_path_planner_ws/build/turtle_path_planner
+running symlink_data

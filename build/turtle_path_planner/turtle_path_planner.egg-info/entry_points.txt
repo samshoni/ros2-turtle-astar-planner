@@ -1,0 +1,2 @@
+[console_scripts]
+astar_planner = turtle_path_planner.astar_planner_node:main
